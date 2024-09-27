@@ -1,0 +1,58 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    border: 2px solid grey;
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    padding: 10px;
+}
+
+body {
+    background-image: url('Skärmbild 2024-09-27 132838.png'); 
+    background-size: cover;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+    text-align: center;
+}
+
+.artikel {
+    max-width: 95%;
+    margin: 20px auto;
+    background-color: lightgray;
+    padding: 20px;
+    border: 2px solid gray;
+}
+
+
+.artikel img {
+    float: left;
+    width: 150px; 
+    margin-right: 20px; 
+}
+
+
+.artikel p {
+    clear: both; 
+    margin-top: 0; 
+}
+
+
+h3{
+
+    text-align: center;
+        
+
+}
+
+ h4{
+    text-align: center;
+ }
+
+
+.hurray{
+
+text-align: center;
+}
